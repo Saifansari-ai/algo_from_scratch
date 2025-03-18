@@ -10,3 +10,9 @@
 - Trained a regression model to predict student performance.
 - Handled categorical features and ensured proper data preprocessing.
 - Evaluated model performance using the R² score.
+
+# 3. Gradient Descent from Scratch
+
+- Implemented gradient descent from scratch using slope and intercept formulas.
+- Developed a `GDRegressor` class for linear regression.
+- Trained the model on a salary dataset with 'YearsExperience' and 'Salary' columns.
