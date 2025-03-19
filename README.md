@@ -11,8 +11,14 @@
 - Handled categorical features and ensured proper data preprocessing.
 - Evaluated model performance using the R² score.
 
-# 3. Gradient Descent from Scratch
+# 3. Gradient Descent from Scratch for 2 columns 
 
 - Implemented gradient descent from scratch using slope and intercept formulas.
 - Developed a `GDRegressor` class for linear regression.
 - Trained the model on a salary dataset with 'YearsExperience' and 'Salary' columns.
+
+# 4. Gradient Descent from Scratch for n columns
+- Implemented gradient descent from scratch using numpy.
+- Developed a `GDRegressor` class for linear regression.
+- Loaded the diabetes dataset from sklearn.
+- Trained the model and evaluated its performance using the R² score from sklearn.metrics.
