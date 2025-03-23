@@ -22,3 +22,9 @@
 - Developed a `GDRegressor` class for linear regression.
 - Loaded the diabetes dataset from sklearn.
 - Trained the model and evaluated its performance using the R² score from sklearn.metrics.
+
+# 5. Stochastic Gradient Descent from Scratch
+- Implemented stochastic gradient descent from scratch using numpy.
+- Developed a `SGDRegressor` class for linear regression.
+- Loaded the diabetes dataset from sklearn.
+- Trained the model and evaluated its performance using the R² score from sklearn.metrics.
