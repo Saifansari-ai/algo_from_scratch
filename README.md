@@ -28,3 +28,9 @@
 - Developed a `SGDRegressor` class for linear regression.
 - Loaded the diabetes dataset from sklearn.
 - Trained the model and evaluated its performance using the R² score from sklearn.metrics.
+
+# 6. Mini Batch Gradient Descent from Scratch
+- Implemented mini batch gradient descent from scratch using numpy.
+- Developed a `MBGDRegressor` class for linear regression.
+- Loaded the diabetes dataset from sklearn.
+- Trained the model and evaluated its performance using the R² score from sklearn.metrics.
