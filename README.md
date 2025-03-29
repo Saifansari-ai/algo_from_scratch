@@ -34,3 +34,8 @@
 - Developed a `MBGDRegressor` class for linear regression.
 - Loaded the diabetes dataset from sklearn.
 - Trained the model and evaluated its performance using the R² score from sklearn.metrics.
+
+# 7. Perceptron Trick from Scratch
+- Implemented the perceptron trick for binary classification from scratch.
+- Made a classification dataset using sklearn's make_classification function.
+- Plot Scatter plot for dataset and Linear line that seprate the data
